@@ -1,3 +1,0 @@
-
-$('.kitchen__slider').slick({
-});
